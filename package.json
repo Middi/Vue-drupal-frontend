@@ -13,7 +13,7 @@
   "author": "Ivan Dorić",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "^3.9.0",
+    "gulp": "^4.0.2",
     "gulp-autoprefixer": "^3.0.2",
     "gulp-livereload": "^3.8.0",
     "gulp-sass": "^2.0.4",
